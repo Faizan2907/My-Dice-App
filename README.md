@@ -1,2 +1,2 @@
 # My-Dice-App
-Hello everyone this is my frrst android application of dice where two dice values from 1..6  are randomly changing and incrementing. and we are counting which dice reach first to the ending position. I have took last limit 50 over here.
+Hello everyone, this is my first dice application for Android, which randomly changes and increases the values of two dice from 1 to 6. and we are keeping track of which dice land in the final position first. I took the 50th as a ending position over here..
